@@ -2,9 +2,9 @@
 
 Association pour le Maintien d’une Agriculture Paysanne
 
-_Fruit d'une réflexion participative_
+_Fruit d'une réflexion participative inter-régionale_
 
-Inter-régionale mars 2014
+mars 2014
 
 ## Sommaire
 
