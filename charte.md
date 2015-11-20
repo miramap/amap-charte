@@ -2,13 +2,13 @@
 
 Association pour le Maintien d’une Agriculture Paysanne
 
-FRUIT D’UNE RÉFLEXION PARTICIPATIVE
+_FRUIT D’UNE RÉFLEXION PARTICIPATIVE_
 
 INTER-RÉGIONALE mars 2014
 
-## PRÉAMBULE
+## I. PRÉAMBULE
 
-Les AMAP[1], ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
+Les AMAP†, ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
 
 Insécurité et gaspillage alimentaires, impératifs écologiques, déperdition des agricultures paysannes au profit d’agricultures productivistes, forte pression foncière sur les terres agricoles, hégémonie de la grande distribution et inégalité alimentaire ici et ailleurs : autant d’enjeux qui ont mobilisé des citoyen-ne-s pour construire et expérimenter un autre modèle agricole, économique et alimentaire, inspiré de la charte de l’Agriculture Paysanne et des mouvements de l’agriculture biologique.
 
@@ -40,77 +40,70 @@ La présente charte est le document fondateur et fédérateur de toutes les AMAP
 
 Elle remplace la première charte élaborée en mai 2003. Elle n’a pas pour objet de servir de règlement intérieur aux AMAP. Il incombe à chacune d’entre elles de définir de façon autonome son mode de fonctionnement, dans le respect des principes de cette charte.
 
-[1] footnote - check word doc.
+<sub>_† « AMAP » est un terme déposé à l'INPI._</sub>
 
-AMAPIEN-NE-S ET PAYSAN-NE-S EN AMAP RESPECTENT ET FONT VIVRE 5 PRINCIPES FONDAMENTAUX
+## II. PRINCIPES FONDAMENTAUX
 
-## 5 PRINCIPES FONDAMENTAUX
+_AMAPIEN-NE-S ET PAYSAN-NE-S EN AMAP RESPECTENT ET FONT VIVRE 5 PRINCIPES FONDAMENTAUX_
 
-### PRINCIPE 1
-
-UNE DÉMARCHE D’AGRICULTURE PAYSANNE
+### PRINCIPE 1 : UNE DÉMARCHE D’AGRICULTURE PAYSANNE
 
 Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l’agriculture paysanne locale. En particulier, elle :
-soutient le maintien, la pérennisation et l’installation,
 
-favorise l’autonomie dans le fonctionnement des fermes,
++ soutient le maintien, la pérennisation et l’installation,
 
-s’inscrit dans une dynamique de territoire et de solidarité,
++ favorise l’autonomie dans le fonctionnement des fermes,
 
-accompagne la viabilité économique des fermes partenaires,
++ s’inscrit dans une dynamique de territoire et de solidarité,
 
-est attentive aux conditions sociales de l’activité agricole.
++ accompagne la viabilité économique des fermes partenaires,
 
-### PRINCIPE 2
++ est attentive aux conditions sociales de l’activité agricole.
 
-UNE PRATIQUE AGRO-ÉCOLOGIQUE
+### PRINCIPE 2 : UNE PRATIQUE AGRO-ÉCOLOGIQUE
 
 Une AMAP soutient une agriculture respectueuse des hommes, de l’environnement et de l’animal, en référence aux fondamentaux de l’agriculture biologique.
+
 En particulier, elle s’engage dans une activité agricole :
 
-durable, diversifiée et adaptée au territoire, en rupture avec l’agro-chimie (sans engrais ni pesticides chimiques de synthèse,…) et toute entreprise d’appropriation mercantile du vivant (sans OGM, …),
++ durable, diversifiée et adaptée au territoire, en rupture avec l’agro-chimie (sans engrais ni pesticides chimiques de synthèse,…) et toute entreprise d’appropriation mercantile du vivant (sans OGM, …),
 
-favorisant la biodiversité végétale et animale,
++ favorisant la biodiversité végétale et animale,
 
-contribuant au maintien et au développement des semences paysannes.
++ contribuant au maintien et au développement des semences paysannes.
 
-### PRINCIPE 3
-
-UNE ALIMENTATION DE QUALITÉ ET ACCESSIBLE
+### PRINCIPE 3 : UNE ALIMENTATION DE QUALITÉ ET ACCESSIBLE
 
 Une AMAP coproduit une alimentation de bonne qualité gustative, sanitaire et environnementale.
+
 Elle cherche à rendre cohérent son soutien à l’agriculture avec la dynamique d’un territoire et les besoins d’une population.
+
 C’est pourquoi chaque AMAP cherche à élargir l’accessibilité d’une telle alimentation à toutes et à tous.
 
-### PRINCIPE 4
-
-UNE PARTICIPATION ACTIVE DANS UNE DÉMARCHE D’ÉDUCATION POPULAIRE
+### PRINCIPE 4 : UNE PARTICIPATION ACTIVE DANS UNE DÉMARCHE D’ÉDUCATION POPULAIRE
 
 Une AMAP vise à créer les conditions de la participation et de l’appropriation citoyenne des enjeux agricoles et alimentaires, notamment par le débat, les apprentissages et le partage des savoirs. Elle :
 
-s’organise sur la base d’une implication de l’ensemble de ses membres,
++ s’organise sur la base d’une implication de l’ensemble de ses membres,
 
-veille à sa pérennisation et à la circulation de l’information,
++ veille à sa pérennisation et à la circulation de l’information,
 
-cherche à créer une relation de qualité entre paysan-ne-s et amapien-ne-s dans un cadre convivial favorisant le dialogue, le lien social, la confiance et la coresponsabilité.
++ cherche à créer une relation de qualité entre paysan-ne-s et amapien-ne-s dans un cadre convivial favorisant le dialogue, le lien social, la confiance et la coresponsabilité.
 
-### PRINCIPE 5
-
-UNE RELATION SOLIDAIRE CONTRACTUALISÉE SANS INTERMÉDIAIRE
+### PRINCIPE 5 : UNE RELATION SOLIDAIRE CONTRACTUALISÉE SANS INTERMÉDIAIRE
 
 Amapien-ne-s et paysan-ne-s en AMAP s’engagent mutuellement sans intermédiaire à partager la production pour une période donnée, par le biais de contrats solidaires (la durée de la période de contrat est liée aux cycles de l’activité de la ferme et dépend de chaque famille d’aliments contractualisée).
 Ce partenariat favorise la transparence entre amapien-ne-s et paysan-ne-s.
 
 Pour chaque famille d’aliments, le contrat :
 
-stipule les engagements réciproques des deux parties tels que définis dans la charte,
++ stipule les engagements réciproques des deux parties tels que définis dans la charte,
 
-établit un prix juste et rémunérateur prenant en compte la viabilité économique de la ferme et les conditions sociales de celles et ceux qui y travaillent.
++ établit un prix juste et rémunérateur prenant en compte la viabilité économique de la ferme et les conditions sociales de celles et ceux qui y travaillent.
 
+## III. ENGAGEMENTS
 
-TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES
-
-## TROIS ENGAGEMENTS
+_TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES_
 
 ### UN ENGAGEMENT ÉCONOMIQUE
 
@@ -130,88 +123,67 @@ TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES
 
 ### UN ENGAGEMENT ÉTHIQUE
 
-• Pour les paysan-ne-s en AMAP :
++ Pour les paysan-ne-s en AMAP :
 
-mener leur activité et la faire évoluer dans le respect des principes de la charte des AMAP, en coopération avec les amapien-ne-s,
-être transparent-e-s sur les pratiques de culture, d’élevage et de transformation.
+  + mener leur activité et la faire évoluer dans le respect des principes de la charte des AMAP, en coopération avec les amapien-ne-s,
 
-• Pour les amapien-ne-s :
+  + être transparent-e-s sur les pratiques de culture, d’élevage et de transformation.
 
-assurer la pérennisation de l’AMAP,
++ Pour les amapien-ne-s :
 
-faire évoluer leurs pratiques dans le respect des principes de la charte.
+  + assurer la pérennisation de l’AMAP,
 
+  + faire évoluer leurs pratiques dans le respect des principes de la charte.
 
 ### UN ENGAGEMENT SOCIAL
 
-• Pour les paysan-ne-s en AMAP :
++ Pour les paysan-ne-s en AMAP :
 
-être présent-e-s sur le lieu de livraison (ou occasionnellement représenté-e-s),
+  + être présent-e-s sur le lieu de livraison (ou occasionnellement représenté-e-s),
 
-créer et entretenir des liens avec les amapien-ne-s,
+  + créer et entretenir des liens avec les amapien-ne-s,
 
-sensibiliser les amapien-ne-s à leur métier et à la vie de la ferme,
+  + sensibiliser les amapien-ne-s à leur métier et à la vie de la ferme,
 
-participer à l’organisation de visites de ferme et d’ateliers pédagogiques,
+  + participer à l’organisation de visites de ferme et d’ateliers pédagogiques,
 
-s’impliquer dans la vie du mouvement des AMAP et de ses partenaires.
+  + s’impliquer dans la vie du mouvement des AMAP et de ses partenaires.
 
-• Pour les amapien-ne-s :
++ Pour les amapien-ne-s :
 
-s’impliquer dans la vie de l’AMAP (livraison, communication, animation, relation paysan-ne-s, continuité des partenariats, réseau,…),
-respecter les modes de fonctionnement de l’AMAP,
+  + s’impliquer dans la vie de l’AMAP (livraison, communication, animation, relation paysan-ne-s, continuité des partenariats, réseau,…),
 
-participer aux visites de ferme et à leur organisation,
+  + respecter les modes de fonctionnement de l’AMAP,
 
-participer à des activités pédagogiques et de soutien aux paysan-ne-s,
+  + participer aux visites de ferme et à leur organisation,
 
-être partie prenante de la vie du mouvement des AMAP et de ses partenaires.
+  + participer à des activités pédagogiques et de soutien aux paysan-ne-s,
 
-UN MOUVEMENT VIVANT EN ÉVOLUTION CONSTANTE
+  + être partie prenante de la vie du mouvement des AMAP et de ses partenaires.
 
-UNE AMÉLIORATION CONTINUE DES PRATIQUES
+
+## IV. UN MOUVEMENT VIVANT EN ÉVOLUTION CONSTANTE
+
+### UNE AMÉLIORATION CONTINUE DES PRATIQUES
 
 Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
 
-En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les
+En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
 
-AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
-
-
-
-
-UNE DYNAMIQUE DE TERRITOIRE ET DE RÉSEAU
+### UNE DYNAMIQUE DE TERRITOIRE ET DE RÉSEAU
 
 Par ailleurs, parce que l’AMAP est plus qu’un « panier », elle s’inscrit dans une dynamique de territoire et contribue à créer une économie de proximité, solidaire et équitable.
 
 Elle s’implique dans la vie du mouvement des AMAP pour la pérennisation, l’essaimage et la visibilité des AMAP ; elle participe ainsi à la création de nouvelles fermes fonctionnant en AMAP.
 
-Le mouvement des AMAP invite à la dissémination positive de « l’esprit
-
-AMAP » dans tous les secteurs de l’économie sociale et solidaire ; il encourage la création d’autres partenariats locaux (artisanat, finance, culture, etc.).
+Le mouvement des AMAP invite à la dissémination positive de « l’esprit AMAP » dans tous les secteurs de l’économie sociale et solidaire ; il encourage la création d’autres partenariats locaux (artisanat, finance, culture, etc.).
 
 La démarche d’expérimentation et de créativité reste au cœur de la charte pour inscrire les AMAP dans un mouvement citoyen, vivant et transformateur.
-
-
-
-
-
-
-
 
 La présente charte doit être signée par chaque amapien-ne et paysan-ne en AMAP.
 
 Signature précédée
 
 de la mention « lu et approuvé »
-
-
-
-
-
-
-
-
-
 
 Date
