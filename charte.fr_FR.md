@@ -57,7 +57,7 @@ La présente charte est le document fondateur et fédérateur de toutes les AMAP
 
 Elle remplace la première charte élaborée en mai 2003. Elle n’a pas pour objet de servir de règlement intérieur aux AMAP. Il incombe à chacune d’entre elles de définir de façon autonome son mode de fonctionnement, dans le respect des principes de cette charte.
 
-<sub>_† « AMAP » est un terme déposé à l'INPI._</sub>
+<sub>_† « AMAP » est un terme déposé à l'[Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
 
 ## II. Principes fondamentaux
 
