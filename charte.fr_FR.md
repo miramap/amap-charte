@@ -6,7 +6,7 @@ _Fruit d'une réflexion participative_
 
 Inter-régionale mars 2014
 
-## ToC
+## Sommaire
 
 + [I. Préambule](#i-préambule)
 + [II. Principes fondamentaux](#ii-principes-fondamentaux)
