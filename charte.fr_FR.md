@@ -1,12 +1,12 @@
-# CHARTE DES AMAP
+# Charte des AMAP
 
 Association pour le Maintien d’une Agriculture Paysanne
 
-_FRUIT D’UNE RÉFLEXION PARTICIPATIVE_
+_Fruit d'une réflexion participative_
 
-INTER-RÉGIONALE mars 2014
+Inter-régionale mars 2014
 
-## I. PRÉAMBULE
+## I. Préambule
 
 Les AMAP†, ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
 
@@ -42,11 +42,11 @@ Elle remplace la première charte élaborée en mai 2003. Elle n’a pas pour ob
 
 <sub>_† « AMAP » est un terme déposé à l'INPI._</sub>
 
-## II. PRINCIPES FONDAMENTAUX
+## II. Principes fondamentaux
 
-_AMAPIEN-NE-S ET PAYSAN-NE-S EN AMAP RESPECTENT ET FONT VIVRE 5 PRINCIPES FONDAMENTAUX_
+_Amapien-ne-s et paysan-ne-s en AMAP respectent et font vivre 5 principes fondamentaux_
 
-### PRINCIPE 1 : UNE DÉMARCHE D’AGRICULTURE PAYSANNE
+### Principe 1 : une démarche d'agriculture paysanne
 
 Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l’agriculture paysanne locale. En particulier, elle :
 
@@ -60,7 +60,7 @@ Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l
 
 + est attentive aux conditions sociales de l’activité agricole.
 
-### PRINCIPE 2 : UNE PRATIQUE AGRO-ÉCOLOGIQUE
+### Principe 2 : une pratique agro-écologique
 
 Une AMAP soutient une agriculture respectueuse des hommes, de l’environnement et de l’animal, en référence aux fondamentaux de l’agriculture biologique.
 
@@ -72,7 +72,7 @@ En particulier, elle s’engage dans une activité agricole :
 
 + contribuant au maintien et au développement des semences paysannes.
 
-### PRINCIPE 3 : UNE ALIMENTATION DE QUALITÉ ET ACCESSIBLE
+### Principe 3 : une alimentation de qualité et accessible
 
 Une AMAP coproduit une alimentation de bonne qualité gustative, sanitaire et environnementale.
 
@@ -80,7 +80,7 @@ Elle cherche à rendre cohérent son soutien à l’agriculture avec la dynamiqu
 
 C’est pourquoi chaque AMAP cherche à élargir l’accessibilité d’une telle alimentation à toutes et à tous.
 
-### PRINCIPE 4 : UNE PARTICIPATION ACTIVE DANS UNE DÉMARCHE D’ÉDUCATION POPULAIRE
+### Principe 4 : une participation active dans une démarche d'éducation populaire
 
 Une AMAP vise à créer les conditions de la participation et de l’appropriation citoyenne des enjeux agricoles et alimentaires, notamment par le débat, les apprentissages et le partage des savoirs. Elle :
 
@@ -90,7 +90,7 @@ Une AMAP vise à créer les conditions de la participation et de l’appropriati
 
 + cherche à créer une relation de qualité entre paysan-ne-s et amapien-ne-s dans un cadre convivial favorisant le dialogue, le lien social, la confiance et la coresponsabilité.
 
-### PRINCIPE 5 : UNE RELATION SOLIDAIRE CONTRACTUALISÉE SANS INTERMÉDIAIRE
+### Principe 5 : une relation solidaire contractualisée sans intermédiaire
 
 Amapien-ne-s et paysan-ne-s en AMAP s’engagent mutuellement sans intermédiaire à partager la production pour une période donnée, par le biais de contrats solidaires (la durée de la période de contrat est liée aux cycles de l’activité de la ferme et dépend de chaque famille d’aliments contractualisée).
 Ce partenariat favorise la transparence entre amapien-ne-s et paysan-ne-s.
@@ -101,11 +101,11 @@ Pour chaque famille d’aliments, le contrat :
 
 + établit un prix juste et rémunérateur prenant en compte la viabilité économique de la ferme et les conditions sociales de celles et ceux qui y travaillent.
 
-## III. ENGAGEMENTS
+## III. Engagements
 
-_TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES_
+_Trois engagements traduisent ces principes_
 
-### UN ENGAGEMENT ÉCONOMIQUE
+### Un engagement économique
 
 + Pour les paysan-ne-s en AMAP :
 
@@ -121,7 +121,7 @@ _TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES_
 
   + prendre en compte équitablement avec les paysan-ne-s les fluctuations et aléas inhérents à leur activité.
 
-### UN ENGAGEMENT ÉTHIQUE
+### Un engagement éthique
 
 + Pour les paysan-ne-s en AMAP :
 
@@ -135,7 +135,7 @@ _TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES_
 
   + faire évoluer leurs pratiques dans le respect des principes de la charte.
 
-### UN ENGAGEMENT SOCIAL
+### Un engagement social
 
 + Pour les paysan-ne-s en AMAP :
 
@@ -162,15 +162,15 @@ _TROIS ENGAGEMENTS TRADUISENT CES PRINCIPES_
   + être partie prenante de la vie du mouvement des AMAP et de ses partenaires.
 
 
-## IV. UN MOUVEMENT VIVANT EN ÉVOLUTION CONSTANTE
+## IV. Un mouvement vivant en évolution constante
 
-### UNE AMÉLIORATION CONTINUE DES PRATIQUES
+### Une amélioration continue des pratiques
 
 Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
 
 En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
 
-### UNE DYNAMIQUE DE TERRITOIRE ET DE RÉSEAU
+### Une dynamique de territoire et de réseau
 
 Par ailleurs, parce que l’AMAP est plus qu’un « panier », elle s’inscrit dans une dynamique de territoire et contribue à créer une économie de proximité, solidaire et équitable.
 
