@@ -6,6 +6,23 @@ _Fruit d'une réflexion participative_
 
 Inter-régionale mars 2014
 
+## ToC
+
++ [I. Préambule](#i-préambule)
++ [II. Principes fondamentaux](#ii-principes-fondamentaux)
+  + [Principe 1 : une démarche d'agriculture paysanne](#principe-1-une-démarche-d-agriculture-paysanne)
+  + [Principe 2 : une pratique agro-écologique](#principe-2-une-pratique-agro-écologique)
+  + [Principe 3 : une alimentation de qualité et accessible](#principe-3-une-alimentation-de-qualité-et-accessible)
+  + [Principe 4 : une participation active dans une démarche d'éducation populaire](#principe-4-une-participation-active-dans-une-démarche-d-éducation-populaire)
+  + [Principe 5 : une relation solidaire contractualisée sans intermédiaire](#principe-5-une-relation-solidaire-contractualisée-sans-intermédiaire)
++ [III. Engagements](#iii-engagements)
+  + [Un engagement économique](#un-engagement-économique)
+  + [Un engagement éthique](#un-engagement-éthique)
+  + [Un engagement social](#un-engagement-social)
++ [IV. Un mouvement vivant en évolution constante](#iv-un-mouvement-vivant-en-évolution-constante)
+  + [Une amélioration continue des pratiques](#une-amélioration-continue-des-pratiques)
+  + [Une dynamique de territoire et de réseau](#une-dynamique-de-territoire-et-de-réseau)
+
 ## I. Préambule
 
 Les AMAP†, ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
