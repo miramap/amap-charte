@@ -33,7 +33,7 @@ Firmemente basadas en una concepción del compartir, las AMAP aspiran a una tran
 
 Tienen por **objetivos** :
 
-1. de maintenir et de développer une agriculture locale, économiquement viable, socialement équitable et écologiquement soutenable, à faible impact environnemental, créatrice d’activité économique et d’emploi, de lien social et de dynamique territoriale,
+1. de mantener y desarollar una agricultura local, económicamente viable, socialemente `equitativa` y ecológicamente sostenible, `de escaso impacto ambiental`, creadora de actividad económica y de empleo, de `vinculos cohesión` social y de dinámicas territoriales,
 
 2. de promouvoir un rapport responsable et citoyen à l’alimentation,
 
