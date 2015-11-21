@@ -130,7 +130,7 @@ _Trois engagements traduisent ces principes_
 
   + mettre en œuvre les moyens nécessaires visant à assurer la livraison régulière des parts de production définies par contrat, déterminer en toute transparence avec les amapien-ne-s un prix forfaitaire stable, garanti et équitable sur la durée du contrat.
 
-  + Une solidarité entre paysan-ne-s peut permettre l’échange occasionnel d’aliments de même nature en toute transparence et avec l’accord explicite des amapien-ne-s,
+  + une solidarité entre paysan-ne-s peut permettre l’échange occasionnel d’aliments de même nature en toute transparence et avec l’accord explicite des amapien-ne-s,
 
 + Pour les amapien-ne-s :
 
