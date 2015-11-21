@@ -31,33 +31,36 @@ Inseguridad y desperdicio de alimentos, imperativos medioambientales, pérdida d
 
 Firmemente basadas en una concepción del compartir, las AMAP aspiran a una transformación social y ecológica de la agricultura y de nuestra relación con la alimentación mediante la generación de nuevas solidaridades. Son alternativas concretas que emergen de la sociedad civil.
 
-Tienen por **objetivos** :
+Tienen por **objetivos**:
 
 1. de mantener y desarollar una agricultura local, económicamente viable, socialemente `equitativa` y ecológicamente sostenible, `de escaso impacto ambiental`, creadora de actividad económica y de empleo, de `vinculos cohesión` social y de dinámicas territoriales,
 
-2. de promouvoir un rapport responsable et citoyen à l’alimentation,
+2. de promover una `relación` responsable y ciudadana con la alimentación,
 
-3. de faire vivre une économie sociale et solidaire, équitable et de proximité,
+3. de `fomentar` una economía social y solidaria, `equitativa|justa` y de proximidad,
 
-4. de contribuer à une souveraineté alimentaire favorisant celle des paysan-ne-s du monde dans un esprit de solidarité.
+4. de contribuir a una soberanía alimentaria que favorece la de l@s campesin@s del mundo en un espiritú de solidaridad.
 
-Concernant les terminologies :
+En cuanto a la terminología:
 
-+ **est appelé « AMAP »**, le collectif formé de l’ensemble des amapien-ne-s et paysan-ne-s engagé-e-s dans un partenariat solidaire, local, contractualisé, sans intermédiaire commercial, avec un esprit de pérennité.
++ **se llama « AMAP »**, el colectivo formado por el conjunto de l@s amapien@s y l@s campesin@s  comprometid@s en una `colaboración` solidaria, local, contractualisada, sin intermediario comercial, con un espíritu  de perennidad.
 
-+ **est appelé « amapien-ne »**, une personne physique bénévole signataire d’un ou plusieurs contrats d’AMAP en cours de validité avec un ou des paysan-ne-s. Le groupe d’amapien-ne-s, dans une démarche non lucrative, se constitue en association (déclarée ou pas).
++ **se llama « amapien@ »**, una persona fisica `voluntaria` signatari@ de uno o varios contratos `válidos|vigentes` de AMAP con un@ o vari@s campesin@s. El grupo de amapien@s, en una `dinámica` sin ánimo de lucro, se constituye en asociación (declarada o no).
 
-+ **est appelé « paysan-ne en AMAP »**, un-e paysan-ne signataire de plusieurs contrats d’AMAP en cours de validité avec des amapien-ne-s.
++ **se llama « campesin@ en AMAP »**, un@ campesin@ signatari@ de varios contratos `válidos|vigentes` de AMAP con amapien@s.
 
 Au sein d’une AMAP, amapien-ne-s et paysan-ne-s construisent ensemble un autre rapport à l’agriculture et à l’alimentation ; en ce sens ils sont coproducteurs.
 
-Ils s’engagent mutuellement à respecter les principes de la charte des AMAP.
+Dentro de una AMAP, l@s amapien@s y l@s campesin@s construyen junt@s una otra relación con la agricultura y la alimentación; en este sentido son co-productores.
 
-La présente charte est le document fondateur et fédérateur de toutes les AMAP en France.
 
-Elle remplace la première charte élaborée en mai 2003. Elle n’a pas pour objet de servir de règlement intérieur aux AMAP. Il incombe à chacune d’entre elles de définir de façon autonome son mode de fonctionnement, dans le respect des principes de cette charte.
+Se comprometen mutualmente a respetar los principios de la carta de las AMAP.
 
-<sub>_† « AMAP » est un terme déposé à l'[Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
+La presente carta es el documento fundador et federador de todas las AMAP en Francia.
+
+Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de servir como reglamento interno de las AMAP. Es responsabilidad de cada una de esas de definir de manera autonoma su modo de funcionamiento, `de acuerdo con|respetando` los principios de esta carta.
+
+<sub>_† « AMAP » es un termino registrado con el Instituto nacional de la propriedad industrial francesa, [Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
 
 ## II. Principes fondamentaux
 
