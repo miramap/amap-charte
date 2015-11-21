@@ -11,7 +11,7 @@ marzo 2014
 + [I. Preámbulo](#i-preámbulo)
 + [II. Principios fundamentales](#ii-principios-fundamentales)
   + [Principio 1: una `dinámica` de agricultura campesina](#principe-1-una-dinámica-de-agricultura-campesina)
-  + [Principio 2: una practica agro-ecológica](#principio-2-una-practica-agro-ecológica)
+  + [Principio 2: una práctica agro-ecológica](#principio-2-una-práctica-agro-ecológica)
   + [Principio 3: una alimentación de calidad y accesible](#principio-3-una-alimentación-de-calidad-y-accesible)
   + [Principio 4: una participación activa en una `dinámica` de educación popular](#principio-4-una-participación-activa-en-una-dinámica-de-educación-popular)
   + [Principio 5: una relación solidaria contractualizada sin intermediario](#principio-5-una-relación-solidaria-contractualizada-sin-intermediario)
@@ -20,7 +20,7 @@ marzo 2014
   + [Un compromiso ético](#un-compromiso-ético)
   + [Un compromiso social](#un-compromiso-social)
 + [IV. Un movimiento `vivo` en evolución constante](#iv-un-movimiento-vivo-en-evolución-constante)
-  + [Una amelioración continua de las practicas](#una-amelioración-continua-de-las-practicas)
+  + [Una amelioración continua de las prácticas](#una-amelioración-continua-de-las-prácticas)
   + [Una dinámica de territorio y de red](#una-dinámica-de-territorio-y-de-red)
 
 ## I. Preámbulo
@@ -80,7 +80,7 @@ Una AMAP `inscribe|enmarcan` su dinámica de coproducción en el respeto de los 
 
 + es attenta a las condiciones sociales de la actividad agricola.
 
-### Principio 2 : una practica agro-ecológica
+### Principio 2 : una práctica agro-ecológica
 
 Una AMAP apoya una agricultura respetuosa de los hombres, del medioambiente y de los animales, en referencia a los fundamentos de la agricultura ecológica.
 
@@ -184,7 +184,7 @@ _Tres compromisos traducen estos principios_
 
 ## IV. Un movimiento `vivo` en evolución constante
 
-### Una amelioración continua de las practicas
+### Una amelioración continua de las prácticas
 
 Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
 
