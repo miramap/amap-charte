@@ -129,11 +129,11 @@ _Tres compromisos traducen estos principios_
 
 + Para l@s campesin@s en AMAP:
 
-  + livrer à périodicité préétablie des aliments de saison, frais ou transformés, diversifiés et issus de leur ferme. Les produits transformés feront l’objet de mentions spécifiques (processus de fabrication transparent et tracé, …) incluses dans le contrat,
+  + entregar en conformidad con una periodicidad preestablecida alimentos de temporada, frescos o transformados, `diversificados|diversos` y `proveniente` de su `granja|explotación agraria`. Los productos transformados seran sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
 
-  + mettre en œuvre les moyens nécessaires visant à assurer la livraison régulière des parts de production définies par contrat, déterminer en toute transparence avec les amapien-ne-s un prix forfaitaire stable, garanti et équitable sur la durée du contrat.
+  + `implementar` los medios necesarios para garantizar la entrega regular de las cuotas|partes de producción definidas por contrato, determinar en `absoluta|toda` transparencia con l@s amapien@s un precio fijo estable, garantizado y equitativo para la duración del contrato.
 
-  + Une solidarité entre paysan-ne-s peut permettre l’échange occasionnel d’aliments de même nature en toute transparence et avec l’accord explicite des amapien-ne-s,
+  + la solidaridad entre campesin@s puede permitir el intercambio ocasional de alimentos de misma naturaleza en `absoluta|toda` transparencia y con el acuerdo explicito de l@s amapien@s,
 
 + Para l@s amapien@s:
 
