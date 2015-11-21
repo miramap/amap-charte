@@ -4,5 +4,5 @@
 
 The charter is available in:
 
-+ [español](#charte.es_ES.md)
-+ [français](#charte.fr_FR.md)
++ [español](charte.es_ES.md)
++ [français](charte.fr_FR.md)
