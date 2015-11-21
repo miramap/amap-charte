@@ -137,7 +137,7 @@ _Tres compromisos traducen estos principios_
 
 + Para l@s amapien@s:
 
-  + contractualizar y pagar con antelacin la produccin para el periodo del contrato a un precio equitativo, absteniendose de cualquier intercambio mercantil en los lugares de entrega,
+  + contractualizar y pagar con antelación la producción para el periodo del contrato a un precio equitativo, absteniendose de cualquier intercambio mercantil en los lugares de entrega,
 
   + tener en cuenta `de manera justa|equitativa` con l@s campesin@s de las fluctuaciones y de los `riesgos` inherentes a su actividad.
 
