@@ -145,60 +145,60 @@ _Tres compromisos traducen estos principios_
 
 + Para l@s campesin@s en AMAP:
 
-  + mener leur activité et la faire évoluer dans le respect des principes de la charte des AMAP, en coopération avec les amapien-ne-s,
+  + llevar a cabo su actividad y desarrollarla de acuerdo con los principios de la carta de las AMAP, en cooperación con l@s amapien@s,
 
-  + être transparent-e-s sur les pratiques de culture, d’élevage et de transformation.
+  + ser transparente acerca de las prácticas de cultivo, `cría de animales` y `transformación|procesamiento`.
 
 + Para l@s amapien@s:
 
-  + assurer la pérennisation de l’AMAP,
+  + garantizar la perennización de la AMAP,
 
-  + faire évoluer leurs pratiques dans le respect des principes de la charte.
+  + hacer evolucionar sus prácticas en acuerdo con los principios de la carta.
 
 ### Un compromiso social
 
 + Para l@s campesin@s en AMAP:
 
-  + être présent-e-s sur le lieu de livraison (ou occasionnellement représenté-e-s),
+  + estar presente en el lugar de entrega (o ocasionalmente ser representad@s)
 
-  + créer et entretenir des liens avec les amapien-ne-s,
+  + crear y mantener lazos con l@s amapien@s,
 
-  + sensibiliser les amapien-ne-s à leur métier et à la vie de la ferme,
+  + concienciar l@s amapien@s a su trabajo y la vida de la `granja|explotación agraria`,
 
-  + participer à l’organisation de visites de ferme et d’ateliers pédagogiques,
+  + participar en la organización de visitas a la `granja|explotación agraria` y talleres educativos,
 
-  + s’impliquer dans la vie du mouvement des AMAP et de ses partenaires.
+  + involucrarse en la vida del movimiento de las AMAP y de sus `soci@s`.
 
 + Para l@s amapien@s:
 
-  + s’impliquer dans la vie de l’AMAP (livraison, communication, animation, relation paysan-ne-s, continuité des partenariats, réseau,…),
+  + involucrarse en la vida de la AMAP (entregas, comunicación, animaciones, relación con l@s campesin@s, continuidad con las colaboraciones, red,…),
 
-  + respecter les modes de fonctionnement de l’AMAP,
+  + respetar los modos de funcionamiento de la AMAP,
 
-  + participer aux visites de ferme et à leur organisation,
+  + participar en las visitas a la `granja|explotación agraria` y a su organización,
 
-  + participer à des activités pédagogiques et de soutien aux paysan-ne-s,
+  + participar en actividades `pedagógicas|educativas` y de apoyo a l@s campesin@s,
 
-  + être partie prenante de la vie du mouvement des AMAP et de ses partenaires.
+  + ser parte de la vida del movimiento AMAP y de sus soci@s .
 
 
 ## IV. Un movimiento `vivo` en evolución constante
 
 ### Una amelioración continua de las prácticas
 
-Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
+`Para hacer vivir` los principios y compromisos de la carta de AMAP, esta debe ir acompañada de acciones que `llevan a|apuntan a` analizar y mejorar colectivamente `sus|las` prácticas.
 
-En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
+En este sentido, la evaluación participativa permite un proceso de evolución compartida entre amapien@s y campesin@s en AMAP. Para `realizarla|lograrla`, las AMAP definen los medios necesarios con el apoyo de `las redes y asociaciones socias`.
 
 ### Una dinámica de territorio y de red
 
-Par ailleurs, parce que l’AMAP est plus qu’un « panier », elle s’inscrit dans une dynamique de territoire et contribue à créer une économie de proximité, solidaire et équitable.
+Además, y porque una AMAP es `(mucho)` más que una « cesta », se inscribe en una dinámica de territorio y contribuye a crear una economía de proximidad, solidaria y `justa|equitativa`.
 
-Elle s’implique dans la vie du mouvement des AMAP pour la pérennisation, l’essaimage et la visibilité des AMAP ; elle participe ainsi à la création de nouvelles fermes fonctionnant en AMAP.
+Procura involucrarse en la vida del movimiento AMAP para la perennización, `enjambre` y visibilidad de las AMAP; y también participa a la creación de nuevas `granjas|explotaciones agrarias` que operan en AMAP.
 
-Le mouvement des AMAP invite à la dissémination positive de « l’esprit AMAP » dans tous les secteurs de l’économie sociale et solidaire ; il encourage la création d’autres partenariats locaux (artisanat, finance, culture, etc.).
+El movimiento de las AMAP invita a la `difusión|diseminación` positiva del « espíritu AMAP » en todos los sectores de la economía social y solidaria; alienta la creación de otras asociaciones locales (artesanía, finanzas, cultura, etc.).
 
-La démarche d’expérimentation et de créativité reste au cœur de la charte pour inscrire les AMAP dans un mouvement citoyen, vivant et transformateur.
+El `proceso|enfoque` de experimentación y de creatividad se mantiene en el corazón de la carta `para|con el fin de` inscribir las AMAP en un movimiento ciudadano, `vivo` y transformador.
 
 La presente carta tiene que `estar|ser` firmada por cada amapien@ y campesin@ en AMAP.
 
