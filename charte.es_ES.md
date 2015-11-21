@@ -127,7 +127,7 @@ _Tres compromisos traducen estos principios_
 
 ### Un compromiso económico
 
-+ Para l@s campesin@s en AMAP :
++ Para l@s campesin@s en AMAP:
 
   + livrer à périodicité préétablie des aliments de saison, frais ou transformés, diversifiés et issus de leur ferme. Les produits transformés feront l’objet de mentions spécifiques (processus de fabrication transparent et tracé, …) incluses dans le contrat,
 
@@ -135,29 +135,29 @@ _Tres compromisos traducen estos principios_
 
   + Une solidarité entre paysan-ne-s peut permettre l’échange occasionnel d’aliments de même nature en toute transparence et avec l’accord explicite des amapien-ne-s,
 
-+ Pour les amapien-ne-s :
++ Para l@s amapien@s:
 
   + contractualiser et prépayer la production sur la période du contrat à un prix équitable, en s’interdisant l’échange marchand sur les lieux de livraison,
 
   + prendre en compte équitablement avec les paysan-ne-s les fluctuations et aléas inhérents à leur activité.
 
-### Un engagement éthique
+### Un compromiso ético
 
-+ Pour les paysan-ne-s en AMAP :
++ Para l@s campesin@s en AMAP:
 
   + mener leur activité et la faire évoluer dans le respect des principes de la charte des AMAP, en coopération avec les amapien-ne-s,
 
   + être transparent-e-s sur les pratiques de culture, d’élevage et de transformation.
 
-+ Pour les amapien-ne-s :
++ Para l@s amapien@s:
 
   + assurer la pérennisation de l’AMAP,
 
   + faire évoluer leurs pratiques dans le respect des principes de la charte.
 
-### Un engagement social
+### Un compromiso social
 
-+ Pour les paysan-ne-s en AMAP :
++ Para l@s campesin@s en AMAP:
 
   + être présent-e-s sur le lieu de livraison (ou occasionnellement représenté-e-s),
 
@@ -169,7 +169,7 @@ _Tres compromisos traducen estos principios_
 
   + s’impliquer dans la vie du mouvement des AMAP et de ses partenaires.
 
-+ Pour les amapien-ne-s :
++ Para l@s amapien@s:
 
   + s’impliquer dans la vie de l’AMAP (livraison, communication, animation, relation paysan-ne-s, continuité des partenariats, réseau,…),
 
@@ -182,15 +182,15 @@ _Tres compromisos traducen estos principios_
   + être partie prenante de la vie du mouvement des AMAP et de ses partenaires.
 
 
-## IV. Un mouvement vivant en évolution constante
+## IV. Un movimiento `vivo` en evolución constante
 
-### Une amélioration continue des pratiques
+### Una amelioración continua de las practicas
 
 Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
 
 En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
 
-### Une dynamique de territoire et de réseau
+### Una dinámica de territorio y de red
 
 Par ailleurs, parce que l’AMAP est plus qu’un « panier », elle s’inscrit dans une dynamique de territoire et contribue à créer une économie de proximité, solidaire et équitable.
 
