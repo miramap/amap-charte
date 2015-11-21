@@ -9,19 +9,19 @@ marzo 2014
 ## Sumario
 
 + [I. Preámbulo](#i-preámbulo)
-+ [II. Principes fondamentaux](#ii-principes-fondamentaux)
-  + [Principe 1 : une démarche d'agriculture paysanne](#principe-1-une-démarche-d-agriculture-paysanne)
-  + [Principe 2 : une pratique agro-écologique](#principe-2-une-pratique-agro-écologique)
-  + [Principe 3 : une alimentation de qualité et accessible](#principe-3-une-alimentation-de-qualité-et-accessible)
-  + [Principe 4 : une participation active dans une démarche d'éducation populaire](#principe-4-une-participation-active-dans-une-démarche-d-éducation-populaire)
-  + [Principe 5 : une relation solidaire contractualisée sans intermédiaire](#principe-5-une-relation-solidaire-contractualisée-sans-intermédiaire)
-+ [III. Engagements](#iii-engagements)
-  + [Un engagement économique](#un-engagement-économique)
-  + [Un engagement éthique](#un-engagement-éthique)
-  + [Un engagement social](#un-engagement-social)
-+ [IV. Un mouvement vivant en évolution constante](#iv-un-mouvement-vivant-en-évolution-constante)
-  + [Une amélioration continue des pratiques](#une-amélioration-continue-des-pratiques)
-  + [Une dynamique de territoire et de réseau](#une-dynamique-de-territoire-et-de-réseau)
++ [II. Principios fundamentales](#ii-principios-fundamentales)
+  + [Principio 1: una `dinámica` de agricultura campesina](#principe-1-una-dinámica-de-agricultura-campesina)
+  + [Principio 2: una practica agro-ecológica](#principio-2-una-practica-agro-ecológica)
+  + [Principio 3: una alimentación de calidad y accesible](#principio-3-una-alimentación-de-calidad-y-accesible)
+  + [Principio 4: una participación activa en una `dinámica` de educación popular](#principio-4-una-participación-activa-en-una-dinámica-de-educación-popular)
+  + [Principio 5: una relación solidaria contractualizada sin intermediario](#principio-5-una-relación-solidaria-contractualizada-sin-intermediario)
++ [III. Compromisos](#iii-compromisos)
+  + [Un compromiso económico](#un-compromiso-económico)
+  + [Un compromiso ético](#un-compromiso-ético)
+  + [Un compromiso social](#un-compromiso-social)
++ [IV. Un movimiento `vivo` en evolución constante](#iv-un-movimiento-vivo-en-evolución-constante)
+  + [Una amelioración continua de las practicas](#una-amelioración-continua-de-las-practicas)
+  + [Una dinámica de territorio y de red](#una-dinámica-de-territorio-y-de-red)
 
 ## I. Preámbulo
 
@@ -66,7 +66,7 @@ Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de se
 
 _Amapien@s y campesin@s en AMAP respeten y `fomentan` 5 principios fondamentales_
 
-### Principio 1 : une démarche d'agriculture paysanne
+### Principio 1 : una `dinámica` de agricultura campesina
 
 Una AMAP `inscribe|enmarcan` su dinámica de coproducción en el respeto de los principios de la agricultura campesina local. En particular:
 
