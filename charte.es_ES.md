@@ -78,7 +78,7 @@ Una AMAP `inscribe|enmarcan` su dinámica de coproducción en el respeto de los 
 
 + accompañe la viabilidad economica de las `granjas|explotaciones agrarias` `socias`,
 
-+ es attenta a las condiciones sociales de la actividad agricola.
++ es atenta a las condiciones sociales de la actividad agricola.
 
 ### Principio 2 : una práctica agro-ecológica
 
