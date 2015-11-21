@@ -62,72 +62,72 @@ Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de se
 
 <sub>_† « AMAP » es un termino registrado con el Instituto nacional de la propriedad industrial francesa, [Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
 
-## II. Principes fondamentaux
+## II. Principios fundamentales
 
-_Amapien-ne-s et paysan-ne-s en AMAP respectent et font vivre 5 principes fondamentaux_
+_Amapien@s y campesin@s en AMAP respeten y `fomentan` 5 principios fondamentales_
 
-### Principe 1 : une démarche d'agriculture paysanne
+### Principio 1 : une démarche d'agriculture paysanne
 
-Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l’agriculture paysanne locale. En particulier, elle :
+Una AMAP `inscribe|enmarcan` su dinámica de coproducción en el respeto de los principios de la agricultura campesina local. En particular:
 
-+ soutient le maintien, la pérennisation et l’installation,
++ apoya el mantenimiento, la perennización y la instalación,
 
-+ favorise l’autonomie dans le fonctionnement des fermes,
++ favorece la autonomia en el funcionamiento de las `granjas|explotaciones agrarias`,
 
-+ s’inscrit dans une dynamique de territoire et de solidarité,
++ se `inscribe|enmarca` en una dinámica de territorio y de solidaridad,
 
-+ accompagne la viabilité économique des fermes partenaires,
++ accompañe la viabilidad economica de las `granjas|explotaciones agrarias` `socias`,
 
-+ est attentive aux conditions sociales de l’activité agricole.
++ es attenta a las condiciones sociales de la actividad agricola.
 
-### Principe 2 : une pratique agro-écologique
+### Principio 2 : una practica agro-ecológica
 
-Une AMAP soutient une agriculture respectueuse des hommes, de l’environnement et de l’animal, en référence aux fondamentaux de l’agriculture biologique.
+Una AMAP apoya una agricultura respetuosa de los hombres, del medioambiente y de los animales, en referencia a los fundamentos de la agricultura ecológica.
 
-En particulier, elle s’engage dans une activité agricole :
+En particular, se compromete en una activadad agricola:
 
-+ durable, diversifiée et adaptée au territoire, en rupture avec l’agro-chimie (sans engrais ni pesticides chimiques de synthèse,…) et toute entreprise d’appropriation mercantile du vivant (sans OGM, …),
++ sostenible, diversificada y adaptada al territorio, en ruptura con la agro-química (sin abonos ni pesticidas químicos `de sintesis`,…) y de cualquier `negocio|iniciativa|esfuerzo|` de apropiación mercantil `de lo vivo` (sin OGM, …),
 
-+ favorisant la biodiversité végétale et animale,
++ favoreciendo la biodiversidad vegetal y animal,
 
-+ contribuant au maintien et au développement des semences paysannes.
++ contribuyendo al mantenimiento y al desarollo de las semillas campesinas.
 
-### Principe 3 : une alimentation de qualité et accessible
+### Principio 3 : una alimentación de calidad y accesible
 
-Une AMAP coproduit une alimentation de bonne qualité gustative, sanitaire et environnementale.
+Una AMAP coproduce una alimentación de buena calidad gustativa, sanitaria y medioambiental.
 
-Elle cherche à rendre cohérent son soutien à l’agriculture avec la dynamique d’un territoire et les besoins d’une population.
+Procura dar coherencia de su apoyo a la agricultura con la dinámica `propia` de un territorio y de las necesidades de una población.
 
-C’est pourquoi chaque AMAP cherche à élargir l’accessibilité d’une telle alimentation à toutes et à tous.
+Por eso, cada AMAP busca ampliar la accesibilidad de esta alimentación a tod@s.
 
-### Principe 4 : une participation active dans une démarche d'éducation populaire
+### Principio 4 : una participación activa en una `dinámica` de educación popular
 
-Une AMAP vise à créer les conditions de la participation et de l’appropriation citoyenne des enjeux agricoles et alimentaires, notamment par le débat, les apprentissages et le partage des savoirs. Elle :
+Una AMAP aspira a crear las condiciones de participación y de apropiación ciudadana de los `retos agricolas y alimenticios`, en particular a través del debate, el aprendizaje y el intercambio de conocimientos. De tal manera que:
 
-+ s’organise sur la base d’une implication de l’ensemble de ses membres,
++ se organiza sobre la base de una implicación del conjunto de sus miembros,
 
-+ veille à sa pérennisation et à la circulation de l’information,
++ `vigila` su perennisación así que la circulación de la información,
 
-+ cherche à créer une relation de qualité entre paysan-ne-s et amapien-ne-s dans un cadre convivial favorisant le dialogue, le lien social, la confiance et la coresponsabilité.
++ procura crear una relación de calidad entre campesin@s y amapien@s dentro de una `marco` convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
 
-### Principe 5 : une relation solidaire contractualisée sans intermédiaire
+### Principio 5 : una relación solidaria contractualizada sin intermediario
 
-Amapien-ne-s et paysan-ne-s en AMAP s’engagent mutuellement sans intermédiaire à partager la production pour une période donnée, par le biais de contrats solidaires (la durée de la période de contrat est liée aux cycles de l’activité de la ferme et dépend de chaque famille d’aliments contractualisée).
-Ce partenariat favorise la transparence entre amapien-ne-s et paysan-ne-s.
+Amapien@s y campesin@s en AMAP se comprometen mutuamente sin intermediario a compartir la producción por un periodo dado, mediante contratos solidarios (la duración del periodo de vigencia del contrato esta ligada a los ciclos de la activdad de la `granja|explotación agraria` y depende de cada familia de alimentos contractualizadas).
+Esa `colaboración|asociación` favorece la transparencia entre amapien@s y campesin@s.
 
-Pour chaque famille d’aliments, le contrat :
+Para cada familia de alimentos, el contrato:
 
-+ stipule les engagements réciproques des deux parties tels que définis dans la charte,
++ estipula los compromisos mutuos de ambas partes tales como definidos en la carta,
 
-+ établit un prix juste et rémunérateur prenant en compte la viabilité économique de la ferme et les conditions sociales de celles et ceux qui y travaillent.
++ establece un precio justo y remunerativo que tenga en cuenta la viabilidad económica de la granja|explocatación agraria y las condiciones sociales de l@s que trabajen allí.
 
-## III. Engagements
+## III. Compromisos
 
-_Trois engagements traduisent ces principes_
+_Tres compromisos traducen estos principios_
 
-### Un engagement économique
+### Un compromiso económico
 
-+ Pour les paysan-ne-s en AMAP :
++ Para l@s campesin@s en AMAP :
 
   + livrer à périodicité préétablie des aliments de saison, frais ou transformés, diversifiés et issus de leur ferme. Les produits transformés feront l’objet de mentions spécifiques (processus de fabrication transparent et tracé, …) incluses dans le contrat,
 
@@ -200,10 +200,8 @@ Le mouvement des AMAP invite à la dissémination positive de « l’esprit AMAP
 
 La démarche d’expérimentation et de créativité reste au cœur de la charte pour inscrire les AMAP dans un mouvement citoyen, vivant et transformateur.
 
-La présente charte doit être signée par chaque amapien-ne et paysan-ne en AMAP.
+La presente carta tiene que `estar|ser` firmada por cada amapien@ y campesin@ en AMAP.
 
-Signature précédée
-
-de la mention « lu et approuvé »
+Firma precedida por « leído y aprobado »
 
 Fecha
