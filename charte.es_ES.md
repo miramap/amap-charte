@@ -25,7 +25,7 @@ marzo 2014
 
 ## I. Preámbulo
 
-En Francia, las AMAP†, Asociación para el Mantenimiento de una Agricultura Campesina (<sub>_Association pour le Maintien d’une Agriculture Paysanne_</sub>), nacieron en 2001, de una toma de conciencia ciudadana frente a la situación de crisis importante en las áreas de la agricultura y de la alimentación.
+En Francia, las AMAP<sup>†</sup>, Asociación para el Mantenimiento de una Agricultura Campesina<sup>‡</sup>, nacieron en 2001, de una toma de conciencia ciudadana frente a la situación de crisis importante en las áreas de la agricultura y de la alimentación.
 
 Inseguridad y desperdicio de alimentos, imperativos medioambientales, pérdida de la agricultura campesina a favor de la agricultura productivista, presión alzista fuerte sobre los precios de las tierras agrícolas, hegemonía de la grandes superficies y desigualdades alimentarias aquí y allá: una cantidad de retos que movilizaron l@s ciudadan@s para construir y experimentar otro modelo de agricultura, de economía y de alimentación, inspirado por la carta de la Agricultura Campesina y los movimientos de agricultura ecológica.
 
@@ -59,6 +59,7 @@ La presente carta es el documento fundador et federador de todas las AMAP en Fra
 Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de servir como reglamento interno de las AMAP. Es responsabilidad de cada una de esas de definir de manera autónoma su modo de funcionamiento, `de acuerdo con|respetando` los principios de esta carta.
 
 <sub>_† « AMAP » es un termino registrado con el Instituto nacional de la propriedad industrial francesa, [Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
+<sub>_‡ Association pour le Maintien d’une Agriculture Paysanne_</sub>
 
 ## II. Principios fundamentales
 
