@@ -25,7 +25,7 @@ mars 2014
 
 ## I. Préambule
 
-Les AMAP†, ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
+Les AMAP<sup>†</sup>, ou Association pour le Maintien d’une Agriculture Paysanne, sont nées, en 2001 en France, d’une prise de conscience citoyenne face à la situation de crise importante dans les domaines de l’agriculture et de l’alimentation.
 
 Insécurité et gaspillage alimentaires, impératifs écologiques, déperdition des agricultures paysannes au profit d’agricultures productivistes, forte pression foncière sur les terres agricoles, hégémonie de la grande distribution et inégalité alimentaire ici et ailleurs : autant d’enjeux qui ont mobilisé des citoyen-ne-s pour construire et expérimenter un autre modèle agricole, économique et alimentaire, inspiré de la charte de l’Agriculture Paysanne et des mouvements de l’agriculture biologique.
 
