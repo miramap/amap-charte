@@ -194,7 +194,7 @@ En este sentido, la evaluación participativa permite un proceso de evolución c
 
 Además, y porque una AMAP es `(mucho)` más que una « cesta », se inscribe en una dinámica de territorio y contribuye a crear una economía de proximidad, solidaria y `justa|equitativa`.
 
-Procura involucrarse en la vida del movimiento AMAP para la perennización, `enjambre` y visibilidad de las AMAP; y también participa a la creación de nuevas `granjas|explotaciones agrarias` que operan en AMAP.
+Procura involucrarse en la vida del movimiento AMAP para la perennización, el `enjambre|enjambrazón|enjambramiento` y la visibilidad de las AMAP; y también participa a la creación de nuevas `granjas|explotaciones agrarias` que operan en AMAP.
 
 El movimiento de las AMAP invita a la `difusión|diseminación` positiva del « espíritu AMAP » en todos los sectores de la economía social y solidaria; alienta la creación de otras asociaciones locales (artesanía, finanzas, cultura, etc.).
 
