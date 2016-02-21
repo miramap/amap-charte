@@ -43,13 +43,11 @@ Tienen por **objetivos**:
 
 En cuanto a la terminología:
 
-+ **se llama « AMAP »**, el colectivo formado por el conjunto de l@s amapien@s y l@s campesin@s  comprometid@s en una `colaboración` solidaria, local, contractualisada, sin intermediario comercial, con un espíritu  de perennidad.
++ **se llama « AMAP »**, el colectivo formado por el conjunto de l@s amapien@s y l@s campesin@s  comprometid@s en una `colaboración` solidaria, local, contractualizada, sin intermediario comercial, con un espíritu  de perennidad.
 
 + **se llama « amapien@ »**, una persona fisica `voluntaria` signatari@ de uno o varios contratos `válidos|vigentes` de AMAP con un@ o vari@s campesin@s. El grupo de amapien@s, en una `dinámica` sin ánimo de lucro, se constituye en asociación (declarada o no).
 
 + **se llama « campesin@ en AMAP »**, un@ campesin@ signatari@ de varios contratos `válidos|vigentes` de AMAP con amapien@s.
-
-Au sein d’une AMAP, amapien-ne-s et paysan-ne-s construisent ensemble un autre rapport à l’agriculture et à l’alimentation ; en ce sens ils sont coproducteurs.
 
 Dentro de una AMAP, l@s amapien@s y l@s campesin@s construyen junt@s una otra relación con la agricultura y la alimentación; en este sentido son co-productores.
 
