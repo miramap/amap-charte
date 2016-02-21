@@ -4,8 +4,8 @@
 
 The _AMAP Charter_ is available in:
 
-+ [español](charte.es_ES.md) ([.PDF](_formats/charte.es_ES.pdf) | [.ODT](_formats/charte.es_ES.odt))
-+ [français](charte.fr_FR.md) ([.PDF](_formats/charte.fr_FR.pdf) | [.ODT](_formats/charte.fr_FR.odt))
++ [español](charte.es_ES.md) ([.pdf](_formats/charte.es_ES.pdf) | [.odt](_formats/charte.es_ES.odt))
++ [français](charte.fr_FR.md) ([.pdf](_formats/charte.fr_FR.pdf) | [.odt](_formats/charte.fr_FR.odt))
 
 ## Formats
 
