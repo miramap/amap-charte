@@ -25,7 +25,7 @@ marzo 2014
 
 ## I. Preámbulo
 
-En Francia, las AMAP† _Association pour le Maintien d’une Agriculture Paysanne_, o Asociación para el Mantenimiento de una Agricultura Campesina, nacieron en 2001, de una toma de conciencia ciudadana frente a la situación de crisis importante en las áreas de la agricultura y de la alimentación.
+En Francia, las AMAP†, Asociación para el Mantenimiento de una Agricultura Campesina (<sub>_Association pour le Maintien d’une Agriculture Paysanne_</sub>), nacieron en 2001, de una toma de conciencia ciudadana frente a la situación de crisis importante en las áreas de la agricultura y de la alimentación.
 
 Inseguridad y desperdicio de alimentos, imperativos medioambientales, pérdida de la agricultura campesina a favor de la agricultura productivista, presión alzista fuerte sobre los precios de las tierras agrícolas, hegemonía de la grandes superficies y desigualdades alimentarias aquí y allá: una cantidad de retos que movilizaron l@s ciudadan@s para construir y experimentar otro modelo de agricultura, de economía y de alimentación, inspirado por la carta de la Agricultura Campesina y los movimientos de agricultura ecológica.
 
@@ -43,13 +43,13 @@ Tienen por **objetivos**:
 
 En cuanto a la terminología:
 
-+ **se llama « AMAP »**, el colectivo formado por el conjunto de l@s amapien@s y l@s campesin@s  comprometid@s en una `colaboración` solidaria, local, contractualizada, sin intermediario comercial, con un espíritu  de perennidad.
++ **se llama « AMAP »**, el colectivo formado por el conjunto de l@s Amapenses y l@s campesin@s  comprometid@s en una `colaboración` solidaria, local, contractualizada, sin intermediario comercial, con un espíritu  de perennidad.
 
-+ **se llama « amapien@ »**, una persona física `voluntaria` signatari@ de uno o varios contratos `válidos|vigentes` de AMAP con un@ o vari@s campesin@s. El grupo de amapien@s, en una `dinámica` sin ánimo de lucro, se constituye en asociación (declarada o no).
++ **se llama « Amapense »**, una persona física `voluntaria` signatari@ de uno o varios contratos `válidos|vigentes` de AMAP con un@ o vari@s campesin@s. El grupo de Amapenses, en una `dinámica` sin ánimo de lucro, se constituye en asociación (declarada o no).
 
-+ **se llama « campesin@ en AMAP »**, un@ campesin@ signatari@ de varios contratos `válidos|vigentes` de AMAP con amapien@s.
++ **se llama « campesin@ en AMAP »**, un@ campesin@ signatari@ de varios contratos `válidos|vigentes` de AMAP con Amapenses.
 
-Dentro de una AMAP, l@s amapien@s y l@s campesin@s construyen junt@s una otra relación con la agricultura y la alimentación; en este sentido son coproductores.
+Dentro de una AMAP, l@s Amapenses y l@s campesin@s construyen junt@s una otra relación con la agricultura y la alimentación; en este sentido son coproductores.
 
 
 Se comprometen mutuamente a respetar los principios de la carta de las AMAP.
@@ -62,7 +62,7 @@ Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de se
 
 ## II. Principios fundamentales
 
-_Amapien@s y campesin@s en AMAP respeten y `fomentan` 5 principios fundamentales_
+_Amapenses y campesin@s en AMAP respeten y `fomentan` 5 principios fundamentales_
 
 ### Principio 1 : una `dinámica` de agricultura campesina
 
@@ -106,12 +106,12 @@ Una AMAP aspira a crear las condiciones de participación y de apropiación ciud
 
 + `vigila` su perennización así que la circulación de la información,
 
-+ procura crear una relación de calidad entre campesin@s y amapien@s dentro de un `marco` convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
++ procura crear una relación de calidad entre campesin@s y Amapenses dentro de un `marco` convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
 
 ### Principio 5 : una relación solidaria contractualizada sin intermediario
 
-Amapien@s y campesin@s en AMAP se comprometen mutuamente sin intermediario a compartir la producción por un periodo dado, mediante contratos solidarios (la duración del periodo de vigencia del contrato esta ligada a los ciclos de la actividad de la `granja|explotación agraria` y depende de cada familia de alimentos contractualizadas).
-Esa `colaboración|asociación` favorece la transparencia entre amapien@s y campesin@s.
+Amapenses y campesin@s en AMAP se comprometen mutuamente sin intermediario a compartir la producción por un periodo dado, mediante contratos solidarios (la duración del periodo de vigencia del contrato esta ligada a los ciclos de la actividad de la `granja|explotación agraria` y depende de cada familia de alimentos contractualizadas).
+Esa `colaboración|asociación` favorece la transparencia entre Amapenses y campesin@s.
 
 Para cada familia de alimentos, el contrato:
 
@@ -129,11 +129,11 @@ _Tres compromisos traducen estos principios_
 
   + entregar en conformidad con una periodicidad preestablecida alimentos de temporada, frescos o transformados, `diversificados|diversos` y `proveniente` de su `granja|explotación agraria`. Los productos transformados serán sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
 
-  + `implementar` los medios necesarios para garantizar la entrega regular de las `cuotas|partes` de producción definidas por contrato, determinar en `absoluta|toda` transparencia con l@s amapien@s un precio fijo estable, garantizado y equitativo para la duración del contrato.
+  + `implementar` los medios necesarios para garantizar la entrega regular de las `cuotas|partes` de producción definidas por contrato, determinar en `absoluta|toda` transparencia con l@s Amapenses un precio fijo estable, garantizado y equitativo para la duración del contrato.
 
-  + la solidaridad entre campesin@s puede permitir el intercambio ocasional de alimentos de misma naturaleza en `absoluta|toda` transparencia y con el acuerdo explicito de l@s amapien@s,
+  + la solidaridad entre campesin@s puede permitir el intercambio ocasional de alimentos de misma naturaleza en `absoluta|toda` transparencia y con el acuerdo explicito de l@s Amapenses,
 
-+ Para l@s amapien@s:
++ Para l@s Amapenses:
 
   + contractualizar y pagar con antelación la producción para el periodo del contrato a un precio equitativo, absteniéndose de cualquier intercambio mercantil en los lugares de entrega,
 
@@ -143,11 +143,11 @@ _Tres compromisos traducen estos principios_
 
 + Para l@s campesin@s en AMAP:
 
-  + llevar a cabo su actividad y desarrollarla de acuerdo con los principios de la carta de las AMAP, en cooperación con l@s amapien@s,
+  + llevar a cabo su actividad y desarrollarla de acuerdo con los principios de la carta de las AMAP, en cooperación con l@s Amapenses,
 
   + ser transparente acerca de las prácticas de cultivo, `cría de animales` y `transformación|procesamiento`.
 
-+ Para l@s amapien@s:
++ Para l@s Amapenses:
 
   + garantizar la perennización de la AMAP,
 
@@ -159,15 +159,15 @@ _Tres compromisos traducen estos principios_
 
   + estar presente en el lugar de entrega (o ocasionalmente ser representad@s)
 
-  + crear y mantener lazos con l@s amapien@s,
+  + crear y mantener lazos con l@s Amapenses,
 
-  + concienciar l@s amapien@s a su trabajo y la vida de la `granja|explotación agraria`,
+  + concienciar l@s Amapenses a su trabajo y la vida de la `granja|explotación agraria`,
 
   + participar en la organización de visitas a la `granja|explotación agraria` y talleres educativos,
 
   + involucrarse en la vida del movimiento de las AMAP y de sus `soci@s`.
 
-+ Para l@s amapien@s:
++ Para l@s Amapenses:
 
   + involucrarse en la vida de la AMAP (entregas, comunicación, animaciones, relación con l@s campesin@s, continuidad de las colaboraciones, red,…),
 
@@ -186,7 +186,7 @@ _Tres compromisos traducen estos principios_
 
 `Para hacer vivir` los principios y compromisos de la carta de AMAP, esta debe ir acompañada de acciones que `llevan a|apuntan a` analizar y mejorar colectivamente `sus|las` prácticas.
 
-En este sentido, la evaluación participativa permite un proceso de evolución compartida entre amapien@s y campesin@s en AMAP. Para `realizarla|lograrla`, las AMAP definen los medios necesarios con el apoyo de `las redes y asociaciones socias`.
+En este sentido, la evaluación participativa permite un proceso de evolución compartida entre Amapenses y campesin@s en AMAP. Para `realizarla|lograrla`, las AMAP definen los medios necesarios con el apoyo de `las redes y asociaciones socias`.
 
 ### Una dinámica de territorio y de red
 
@@ -198,7 +198,7 @@ El movimiento de las AMAP invita a la `difusión|diseminación` positiva del « 
 
 El `proceso|enfoque` de experimentación y de creatividad se mantiene en el corazón de la carta `para|con el fin de` inscribir las AMAP en un movimiento ciudadano, `vivo` y transformador.
 
-La presente carta tiene que `estar|ser` firmada por cada amapien@ y campesin@ en AMAP.
+La presente carta tiene que `estar|ser` firmada por cada Amapense y campesin@ en AMAP.
 
 Firma precedida por « leído y aprobado »
 
