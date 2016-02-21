@@ -59,7 +59,8 @@ La presente carta es el documento fundador et federador de todas las AMAP en Fra
 Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de servir como reglamento interno de las AMAP. Es responsabilidad de cada una de esas de definir de manera autónoma su modo de funcionamiento, `de acuerdo con|respetando` los principios de esta carta.
 
 <sub>_† « AMAP » es un termino registrado con el Instituto nacional de la propriedad industrial francesa, [Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
-<sub>_‡ Association pour le Maintien d’une Agriculture Paysanne_</sub>
+
+<sub>_‡ Association pour le Maintien d’une Agriculture Paysanne._</sub>
 
 ## II. Principios fundamentales
 
