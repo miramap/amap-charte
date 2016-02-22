@@ -54,7 +54,7 @@ Dentro de una AMAP, l@s Amapenses y l@s campesin@s construyen junt@s una otra re
 
 Se comprometen mutuamente a respetar los principios de la carta de las AMAP.
 
-La presente carta es el documento fundador et federador de todas las AMAP en Francia.
+La presente carta es el documento fundador y federador de todas las AMAP en Francia.
 
 Sustituye la primera carta elaborada en mayo 2003. No tiene por `objetivo` de servir como reglamento interno de las AMAP. Es responsabilidad de cada una de esas de definir de manera autónoma su modo de funcionamiento, `de acuerdo con|respetando` los principios de esta carta.
 
