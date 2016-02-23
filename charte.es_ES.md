@@ -35,7 +35,7 @@ Tienen por **objetivos**:
 
 >1. de maintenir et de développer une agriculture locale, économiquement viable, socialement équitable et écologiquement soutenable, à faible impact environnemental, créatrice d’activité économique et d’emploi, de lien social et de dynamique territoriale,
 
-1. de mantener y desarrollar una agricultura local, económicamente viable, socialmente `equitativa` y ecológicamente sostenible, `de escaso impacto ambiental`, creadora de actividad económica y de empleo, de `vínculos cohesión` social y de dinámicas territoriales,
+1. de mantener y desarrollar una agricultura local, económicamente viable, socialmente equitable y ecológicamente sostenible, de bajo impacto ambiental, creadora de actividad económica y de empleo, de vínculo social y de dinámicas territoriales,
 
 >2. de promouvoir un rapport responsable et citoyen à l’alimentation,
 
