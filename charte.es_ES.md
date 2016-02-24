@@ -81,7 +81,7 @@ Sustituye la primera carta elaborada en mayo 2003. No tiene por `objeto|objetivo
 _Amapenses y campesin@s en AMAP respeten y `fomentan` 5 principios fundamentales_
 
 ### Principe 1 : une démarche d'agriculture paysanne
-### Principio 1 : un(a) `enfoque|dinámica` de agricultura campesina
+### Principio 1: un(a) `enfoque|dinámica` de agricultura campesina
 
 >Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l’agriculture paysanne locale. En particulier, elle :
 
@@ -103,7 +103,7 @@ Una AMAP `inscribe|enmarca` su dinámica de coproducción en el respeto de los p
 
 + es atenta a las condiciones sociales de la actividad agrícola.
 
-### Principio 2 : una práctica agro-ecológica
+### Principio 2: una práctica agro-ecológica
 
 Una AMAP apoya una agricultura respetuosa de los hombres, del medio ambiente y de los animales, en referencia a los fundamentos de la agricultura ecológica.
 
@@ -117,7 +117,7 @@ En particular, se compromete en una actividad agrícola:
 
 + contribuyendo al mantenimiento y al desarrollo de las semillas campesinas.
 
-### Principio 3 : una alimentación de calidad y accesible
+### Principio 3: una alimentación de calidad y accesible
 
 Una AMAP coproduce una alimentación de buena calidad gustativa, sanitaria y medioambiental.
 
@@ -128,7 +128,7 @@ Procura dar coherencia a su apoyo a la agricultura con las dinámicas de un terr
 Por eso, cada AMAP busca ampliar la accesibilidad de esta alimentación a tod@s.
 
 ### Principe 4 : une participation active dans une démarche d'éducation populaire
-### Principio 4 : una participación activa en una `dinámica` de educación popular
+### Principio 4: una participación activa en una `dinámica` de educación popular
 
 >Une AMAP vise à créer les conditions de la participation et de l’appropriation citoyenne des enjeux agricoles et alimentaires, notamment par le débat, les apprentissages et le partage des savoirs. Elle :
 
@@ -144,7 +144,7 @@ Una AMAP aspira a crear las condiciones de participación y de apropiación ciud
 
 + procura crear una relación de calidad entre campesin@s y Amapenses dentro de un `marco` convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
 
-### Principio 5 : una relación solidaria contractualizada sin intermediario
+### Principio 5: una relación solidaria contractualizada sin intermediario
 
 >Amapien-ne-s et paysan-ne-s en AMAP s’engagent mutuellement sans intermédiaire à partager la production pour une période donnée, par le biais de contrats solidaires (la durée de la période de contrat est liée aux cycles de l’activité de la ferme et dépend de chaque famille d’aliments contractualisée).
 
