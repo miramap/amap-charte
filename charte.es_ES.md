@@ -272,7 +272,7 @@ El movimiento de las AMAP invita a la diseminación positiva del « espíritu AM
 
 >La démarche d’expérimentation et de créativité reste au cœur de la charte pour inscrire les AMAP dans un mouvement citoyen, vivant et transformateur.
 
-El `proceso|enfoque` de experimentación y de creatividad se mantiene en el `corazón` de la carta con el fin de inscribir las AMAP en un movimiento ciudadano, vivo y transformador.
+Con el fin de inscribir a las AMAP en un movimiento ciudadano, vivo y transformador, el énfasis en los procesos creativos y de experimentación son una parte fundamental de la carta.
 
 > La présente charte doit être signée par chaque amapien-ne et paysan-ne en AMAP.
 
