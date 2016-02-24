@@ -250,7 +250,7 @@ _Tres compromisos traducen estos principios_
 
 >Pour faire vivre les principes et engagements de la charte des AMAP, celle-ci doit être accompagnée d’actions visant à analyser et faire progresser collectivement les pratiques.
 
-`Para hacer vivir` los principios y compromisos de la carta de AMAP, esta debe ir acompañada de acciones que conllevan a analizar y mejorar colectivamente las prácticas.
+Para darle vida a los principios y compromisos de la carta de AMAP, ésta debe ir acompañada de acciones que conllevan a analizar y mejorar colectivamente las prácticas.
 
 >En ce sens, l’évaluation participative permet une démarche d’évolution partagée entre amapien-ne-s et paysan-ne-s en AMAP. Pour la réaliser, les AMAP définissent les moyens à mettre en œuvre avec l’appui des réseaux et associations partenaires.
 
