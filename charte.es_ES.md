@@ -172,7 +172,7 @@ _Tres compromisos traducen estos principios_
 
 >  + livrer à périodicité préétablie des aliments de saison, frais ou transformés, diversifiés et issus de leur ferme. Les produits transformés feront l’objet de mentions spécifiques (processus de fabrication transparent et tracé, …) incluses dans le contrat,
 
-  + entregar en conformidad con una periodicidad preestablecida alimentos de temporada, frescos o transformados, `diversificados|diversos` y `proveniente` de su granja. Los productos transformados serán sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
+  + entregar en conformidad con una periodicidad preestablecida alimentos de temporada, frescos o transformados, `diversificados|diversos` y `proveniente|procedente` de su granja. Los productos transformados serán sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
 
 >  + mettre en œuvre les moyens nécessaires visant à assurer la livraison régulière des parts de production définies par contrat, déterminer en toute transparence avec les amapien-ne-s un prix forfaitaire stable, garanti et équitable sur la durée du contrat.
 
