@@ -19,7 +19,7 @@ marzo 2014
   + [Un compromiso económico](#un-compromiso-económico)
   + [Un compromiso ético](#un-compromiso-ético)
   + [Un compromiso social](#un-compromiso-social)
-+ [IV. Un movimiento `vivo` en evolución constante](#iv-un-movimiento-vivo-en-evolución-constante)
++ [IV. Un movimiento vivo en constante evolución](#iv-un-movimiento-vivo-en-constante-evolución)
   + [Una mejora continua de las prácticas](#una-mejora-continua-de-las-prácticas)
   + [Una dinámica de territorio y de red](#una-dinámica-de-territorio-y-de-red)
 
@@ -244,7 +244,7 @@ _Tres compromisos traducen estos principios_
 
 
 ## IV. Un mouvement vivant en évolution constante
-## IV. Un movimiento `vivo` en evolución constante
+## IV. Un movimiento vivo en constante evolución
 
 ### Una mejora continua de las prácticas
 
