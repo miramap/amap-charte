@@ -55,7 +55,7 @@ En cuanto a la terminología:
 
 >+ **est appelé « amapien-ne »**, une personne physique bénévole signataire d’un ou plusieurs contrats d’AMAP en cours de validité avec un ou des paysan-ne-s. Le groupe d’amapien-ne-s, dans une démarche non lucrative, se constitue en association (déclarée ou pas).
 
-+ **se llama « Amapense »**, una persona física voluntaria signataria de uno o varios contratos vigentes de AMAP con un@ o vari@s campesin@s. El grupo de Amapenses, en una `dinámica` sin ánimo de lucro, se constituye en asociación (declarada o no).
++ **se llama « Amapense »**, una persona física voluntaria signataria de uno o varios contratos vigentes de AMAP con un@ o vari@s campesin@s. En una dinámica sin fines de lucro, el grupo de Amapenses se constituye en asociación (declarada o no).
 
 >+ **est appelé « paysan-ne en AMAP »**, un-e paysan-ne signataire de plusieurs contrats d’AMAP en cours de validité avec des amapien-ne-s.
 
