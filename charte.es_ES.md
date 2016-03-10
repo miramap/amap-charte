@@ -159,7 +159,7 @@ _Tres compromisos traducen estos principios_
 
 + Para l@s campesin@s en AMAP:
 
-  + estar presente en el lugar de entrega (o ocasionalmente ser representad@s)
+  + estar presente en el lugar de entrega (o ocasionalmente ser representad@s),
 
   + crear y mantener lazos con l@s Amapenses,
 
@@ -167,7 +167,7 @@ _Tres compromisos traducen estos principios_
 
   + participar en la organización de visitas a la granja y talleres educativos,
 
-  + involucrarse en la vida del movimiento de las AMAP y de sus organizaciones colaboradoras.
+  + involucrarse en la vida del movimiento de las AMAP y de sus soci@s.
 
 + Para l@s Amapenses:
 
@@ -179,7 +179,7 @@ _Tres compromisos traducen estos principios_
 
   + participar en actividades pedagógicas y de apoyo a l@s campesin@s,
 
-  + ser parte de la vida del movimiento AMAP y de sus soci@s .
+  + ser parte de la vida del movimiento AMAP y de sus soci@s.
 
 
 ## IV. Un movimiento vivo en constante evolución
