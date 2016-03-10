@@ -9,7 +9,7 @@ The _AMAP Charter_ is available in:
 
 ## Formats
 
-The default format used here is `Markdown`.
+The format used here is `Markdown`.
 
 Use [pandoc](http://pandoc.org/) to easily convert the _AMAP Charter_ into many formats, such as: `.PDF`, `.ODT`, `.DOC`, etc.
 
