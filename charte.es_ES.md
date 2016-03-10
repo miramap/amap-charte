@@ -10,7 +10,7 @@ marzo 2014
 
 + [I. Preámbulo](#i-preámbulo)
 + [II. Principios fundamentales](#ii-principios-fundamentales)
-  + [Principio 1: una dinámica de agricultura campesina](#principe-1-una-dinámica-de-agricultura-campesina)
+  + [Principio 1: una dinámica de agricultura campesina](#principio-1-una-dinámica-de-agricultura-campesina)
   + [Principio 2: una práctica agro-ecológica](#principio-2-una-práctica-agro-ecológica)
   + [Principio 3: una alimentación de calidad y accesible](#principio-3-una-alimentación-de-calidad-y-accesible)
   + [Principio 4: una participación activa en una dinámica de educación popular](#principio-4-una-participación-activa-en-una-dinámica-de-educación-popular)
