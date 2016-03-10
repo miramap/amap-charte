@@ -58,7 +58,7 @@ La presente carta es el documento fundador y federador de todas las AMAP en Fran
 
 >Elle remplace la première charte élaborée en mai 2003. Elle n’a pas pour objet de servir de règlement intérieur aux AMAP. Il incombe à chacune d’entre elles de définir de façon autonome son mode de fonctionnement, dans le respect des principes de cette charte.
 
-Sustituye la primera carta elaborada en mayo 2003. No tiene por `objeto|objetivo` de servir como reglamento interno de las AMAP. Es responsabilidad de cada AMAP de definir de manera autónoma su modo de funcionamiento, respetando los principios de esta carta.
+Sustituye la primera carta elaborada en mayo 2003. No tiene por objeto de servir como reglamento interno de las AMAP. Es responsabilidad de cada AMAP de definir de manera autónoma su modo de funcionamiento, respetando los principios de esta carta.
 
 <sub>_† « AMAP » es un termino registrado con el Instituto nacional de la propriedad industrial francesa, [Institut national de la propriété industrielle (INPI)](http://www.inpi.fr/ "www.inpi.fr" )._</sub>
 
@@ -68,12 +68,12 @@ Sustituye la primera carta elaborada en mayo 2003. No tiene por `objeto|objetivo
 
 _Amapenses y campesin@s en AMAP respeten y `fomentan` 5 principios fundamentales_
 
-### Principe 1 : une démarche d'agriculture paysanne
-### Principio 1: un(a) `enfoque|dinámica` de agricultura campesina
+>### Principe 1 : une démarche d'agriculture paysanne
+### Principio 1: una dinámica de agricultura campesina
 
 >Une AMAP inscrit sa démarche de coproduction dans le respect des principes de l’agriculture paysanne locale. En particulier, elle :
 
-Una AMAP `inscribe|enmarca` su dinámica de coproducción en el respeto de los principios de la agricultura campesina local. En particular:
+Una AMAP enmarca su dinámica de coproducción en el respeto de los principios de la agricultura campesina local. En particular:
 
 + apoya el mantenimiento, la perennización y la instalación,
 
@@ -81,11 +81,11 @@ Una AMAP `inscribe|enmarca` su dinámica de coproducción en el respeto de los p
 
 >+ s’inscrit dans une dynamique de territoire et de solidarité,
 
-+ se `inscribe|enmarca` en una dinámica de territorio y de solidaridad,
++ forma parte de una dinámica de territorio y de solidaridad,
 
 >+ accompagne la viabilité économique des fermes partenaires,
 
-+ acompañe la viabilidad económica de las granjas `socias`,
++ acompaña la viabilidad económica de las granjas colaboradoras,
 
 + es atenta a las condiciones sociales de la actividad agrícola.
 
@@ -109,8 +109,8 @@ Procura dar coherencia a su apoyo a la agricultura con las dinámicas de un terr
 
 Por eso, cada AMAP busca ampliar la accesibilidad de esta alimentación a tod@s.
 
-### Principe 4 : une participation active dans une démarche d'éducation populaire
-### Principio 4: una participación activa en una `dinámica` de educación popular
+>### Principe 4 : une participation active dans une démarche d'éducation populaire
+### Principio 4: una participación activa en una dinámica de educación popular
 
 Una AMAP aspira a crear las condiciones de participación y de apropiación ciudadana de los retos agrícolas y alimenticios, en particular a través del debate, el aprendizaje y el intercambio de conocimientos. De tal manera que:
 
@@ -118,11 +118,11 @@ Una AMAP aspira a crear las condiciones de participación y de apropiación ciud
 
 >+ veille à sa pérennisation et à la circulation de l’information,
 
-+ `vigila|es atenta|vela` a su perennización, y a la circulación de la información,
++ vela por su perennización, y por la circulación de la información,
 
 >+ cherche à créer une relation de qualité entre paysan-ne-s et amapien-ne-s dans un cadre convivial favorisant le dialogue, le lien social, la confiance et la coresponsabilité.
 
-+ procura crear una relación de calidad entre campesin@s y Amapenses dentro de un `marco` convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
++ procura crear una relación de calidad entre campesin@s y Amapenses dentro de un marco convivial favoreciendo el diálogo, el vinculo social, la confianza y la corresponsabilidad.
 
 ### Principio 5: una relación solidaria contractualizada sin intermediario
 
@@ -130,7 +130,7 @@ Amapenses y campesin@s en AMAP se comprometen mutuamente sin intermediario a com
 
 >Ce partenariat favorise la transparence entre amapien-ne-s et paysan-ne-s.
 
-Esa `colaboración|asociación` favorece la transparencia entre Amapenses y campesin@s.
+Esa colaboración favorece la transparencia entre Amapenses y campesin@s.
 
 Para cada familia de alimentos, el contrato:
 
@@ -148,11 +148,11 @@ _Tres compromisos traducen estos principios_
 
 >  + livrer à périodicité préétablie des aliments de saison, frais ou transformés, diversifiés et issus de leur ferme. Les produits transformés feront l’objet de mentions spécifiques (processus de fabrication transparent et tracé, …) incluses dans le contrat,
 
-  + entregar en conformidad con una periodicidad preestablecida alimentos de temporada, frescos o transformados, `diversificados|diversos` y `proveniente|procedente` de su granja. Los productos transformados serán sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
+  + entregar con una periodicidad preestablecida alimentos de temporada, frescos o transformados, diversos y procedente de su granja. Los productos transformados serán sujetos a menciones especificas (proceso de fabricación transparente y trazado, …) incluidas en el contrato,
 
 >  + mettre en œuvre les moyens nécessaires visant à assurer la livraison régulière des parts de production définies par contrat, déterminer en toute transparence avec les amapien-ne-s un prix forfaitaire stable, garanti et équitable sur la durée du contrat.
 
-  + `implementar|aplicar` los medios necesarios para garantizar la entrega regular de las `cuotas|partes` de producción definidas por contrato, determinar en `absoluta|toda` transparencia con l@s Amapenses un precio fijo estable, garantizado y equitativo para la duración del contrato.
+  + tomar los medios necesarios para garantizar la entrega regular de las cuotas de producción definidas por contrato, determinar en absoluta transparencia con l@s Amapenses un precio fijo estable, garantizado y equitativo para la duración del contrato.
 
 >  + une solidarité entre paysan-ne-s peut permettre l’échange occasionnel d’aliments de même nature en toute transparence et avec l’accord explicite des amapien-ne-s,
 
@@ -164,7 +164,7 @@ _Tres compromisos traducen estos principios_
 
 >  + prendre en compte équitablement avec les paysan-ne-s les fluctuations et aléas inhérents à leur activité.
 
-  + tener en cuenta de manera equitable con l@s campesin@s las fluctuaciones y `aleas|riesgos` inherentes a su actividad.
+  + tener en cuenta de manera equitable con l@s campesin@s las fluctuaciones y aleas (riesgos) inherentes a su actividad.
 
 ### Un compromiso ético
 
@@ -174,7 +174,7 @@ _Tres compromisos traducen estos principios_
 
 >  + être transparent-e-s sur les pratiques de culture, d’élevage et de transformation.
 
-  + ser transparente acerca de las prácticas de cultivo, de `crianza|cría de animales` y de transformación.
+  + ser transparente acerca de las prácticas de cultivo, de cría de animales y de transformación.
 
 + Para l@s Amapenses:
 
@@ -196,7 +196,7 @@ _Tres compromisos traducen estos principios_
 
 >  + s’impliquer dans la vie du mouvement des AMAP et de ses partenaires.
 
-  + involucrarse en la vida del movimiento de las AMAP y de sus `soci@s`.
+  + involucrarse en la vida del movimiento de las AMAP y de sus organizaciones colaboradoras.
 
 + Para l@s Amapenses:
 
@@ -225,7 +225,7 @@ Además, y porque una AMAP es más que una « cesta », se inscribe en una diná
 
 > Elle s’implique dans la vie du mouvement des AMAP pour la pérennisation, l’essaimage et la visibilité des AMAP ; elle participe ainsi à la création de nouvelles fermes fonctionnant en AMAP.
 
-Procura involucrarse en la vida del movimiento AMAP para la perennización, el `enjambre|enjambrazón|enjambramiento` y la visibilidad de las AMAP; y también participa a la creación de nuevas granjas que operan en AMAP.
+Procura involucrarse en la vida del movimiento AMAP para la perennización, el enjambre y la visibilidad de las AMAP; y también participa a la creación de nuevas granjas que operan en AMAP.
 
 El movimiento de las AMAP invita a la diseminación positiva del « espíritu AMAP » en todos los sectores de la economía social y solidaria; alienta la creación de otras asociaciones locales (artesanía, finanzas, cultura, etc.).
 
